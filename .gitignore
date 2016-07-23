@@ -1,0 +1,6 @@
+venv
+*.pyc
+
+### Eclipse ###
+*.pydevproject
+.project
