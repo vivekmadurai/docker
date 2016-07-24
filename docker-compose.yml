@@ -1,5 +1,5 @@
-webapp:
-    build: webapp
+app:
+    build: app
     links:
         - redis
 redis:
