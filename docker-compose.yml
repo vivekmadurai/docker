@@ -1,6 +1,2 @@
-app:
-    build: app
-    links:
-        - redis
-redis:
-    build: redis
+webapp:
+    build: webapp
